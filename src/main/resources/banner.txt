@@ -1,0 +1,16 @@
+欢迎来到 springCloud..
+Welcome to come springCloud..
+${AnsiBackground.BRIGHT_BLACK}
+    springboot-version:${spring-boot.version}
+    application: 服务注册中心
+          |$|       |$|   |$|      |$|     |$|
+           |$|     |$|     |$|    |$|      |$|
+            |$|   |$|        |$| |$|       |$|
+             |$| |$|           |$|         |$|
+               |$|           |$| |$|       |$|
+               |$|          |$|   |$|      |$|
+               |$|         |$|      |$|    |$||$||$||$|
+
+                           活到老，学到老
+           --天生我才必有用，
+                      --千金散尽还复来。。。。。
